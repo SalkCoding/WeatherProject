@@ -1,0 +1,6 @@
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.csprojResolveAssemblyReference.cache
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.MainForm.resources
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.Properties.Resources.resources
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.SearchForm.LocationSearchForm.resources
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.csproj.GenerateResource.Cache
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\Weather\Weather\obj\Release\Weather.csproj.CoreCompileInputs.cache

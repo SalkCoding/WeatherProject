@@ -1,2 +1,4 @@
-원래는 이거 SKPlanet 로고를 넣어야 하지만 완성안해서 아직 안넣었습니다.SK 원칙상 이용시 CI메뉴얼에 있는 SK 로고를 넣으셔야 합니다.
-(현재->2018-5-10 기준 SKPlanet은 몇달 전 SKT API 서비스인가로 통합된걸 확인하였습니다. 해당 소스코드는 여전히 작동합니다만, 만약 작동이 되지 않는다면 이슈로 넣어주세요)
+SK Planet Weather API (https://developers.skplanetx.com)가 
+T Developers (https://developers.sktelecom.com/content/sktApi/view/?svcId=10113)로 통합됨에 따라 이 프로젝트에 있는 API는 이용이 불가합니다.
+또한 GoogleMap API를 사용중인데 구글에서는 API를 무료 3번 유로는 결제해서 사용 해야하는식으로 API 사용 정책을 변경하였기에
+해당 소스코드는 작동은 되나 구글 (https://cloud.google.com/maps-platform/?hl=ko)에 가셔서 결제를 하셔야 원할하게 사용 가능할겁니다.
